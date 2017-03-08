@@ -1,0 +1,23 @@
+/* ============ Orange theme ============ */
+.colorBox .colorGear,
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:focus,
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+#slideCarousel .carousel-indicators .active {
+    background-color: #ff8e15;
+}
+
+.navbar-inverse .navbar-brand span,
+.about .tempName,
+.testimonials span,
+footer h3,
+footer .copyright span {
+    color: #ff8e15;
+}
+
+.testimonials .carousel-indicators li.active,
+.colorBox .colorOpt {border: 3.5px solid #ff8e15;}
+
+.dropdown-menu {border-top: 3px solid #ff8e15;}

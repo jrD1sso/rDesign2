@@ -1,0 +1,29 @@
+/* ========= About Us ========= */
+.bready {background-color: #f5f5e5;}
+.bready .breadcrumb {padding: 10px 0; margin: 0;}
+
+.aboutUs {padding: 10px 0 50px;}
+.aboutUs h1 {font-family: 'Raleway', sans-serif; font-size: 45px;}
+.aboutUs hr {width: 30%;}
+
+.whyUs .col-sm-4 {margin-bottom: 50px;}
+
+.ceo {background-color: #eee; padding: 40px 0;}
+.ceo h2 {font-family: 'Raleway', sans-serif; margin-top: 45px;}
+.ceo p {line-height: 1.7;}
+.ceo .btn-warning {background-color: #333; border-color: #333;}
+.ceo img {height: 350px; min-height: 350px;}
+
+/* ========= FAQ ========= */
+.faq {padding: 10px 0 50px;}
+.faq h1 {font-family: 'Raleway', sans-serif;}
+.faq h1 ~ hr {width: 80%;}
+
+.questions .panel-heading {padding: 15px;}
+.questions .panel-heading a:after {
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";
+    float: right;
+    color: 444;
+}
+.questions .panel-heading a.collapsed:after {content: "\e080"; color: #999;}

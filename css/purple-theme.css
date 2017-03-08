@@ -1,0 +1,23 @@
+/* ============ Purple theme ============ */
+.colorBox .colorGear,
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:focus,
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+#slideCarousel .carousel-indicators .active {
+    background-color: #f660ff;
+}
+
+.navbar-inverse .navbar-brand span,
+.about .tempName,
+.testimonials span,
+footer h3,
+footer .copyright span {
+    color: #f660ff;
+}
+
+.testimonials .carousel-indicators li.active,
+.colorBox .colorOpt {border: 3.5px solid #f660ff;}
+
+.dropdown-menu {border-top: 3px solid #f660ff;}
