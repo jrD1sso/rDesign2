@@ -27,3 +27,7 @@
     color: 444;
 }
 .questions .panel-heading a.collapsed:after {content: "\e080"; color: #999;}
+
+/* Footer */
+footer {padding: 0;}
+footer .copyright {margin-top: 0;}
