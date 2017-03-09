@@ -1,5 +1,5 @@
 body {padding-top: 50px; overflow: hidden;}
-
+section {overflow: hidden;}
 h1,h2,h3,h4,.lead {font-family: 'Droid Sans', sans-serif;}
 
 /* ============= Color Box ============= */
